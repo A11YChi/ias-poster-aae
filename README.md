@@ -1,4 +1,7 @@
 # An Accessible Experience
+
+[_View Poster PDF_](https://github.com/A11YChi/ias-poster-aae/blob/master/ias-poster-aae-final-03.23.2018.pdf)
+
 A poster presentation for [IA Summit 2018 - Chicago](http://www.iasummit.org/present/present-a-poster/)
 
 - - - - - 
