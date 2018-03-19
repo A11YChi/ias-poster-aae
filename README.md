@@ -18,7 +18,7 @@ Based a website scenario, this poster highlights the frequent challenges that Pe
 
 _Special thanks to Dennis Deacon for the feedback_
 
-**License:** Distribution as is and Private Use are permitted; otherwise contact the repo owner(s) for modifications and commercial use.
+**License:** Distribution as-is and Private Use are permitted; otherwise contact the repo owner(s) for modifications and commercial use.
 
 Tools behind this poster
 -----
