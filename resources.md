@@ -18,7 +18,10 @@ This ["a11y lists-of-lists"](https://github.com/accessibility/a11y-lists-of-list
   - Appendix A has a helpful accessible UX principles and guidelines
 - [_Accessibility for Everyone_](https://abookapart.com/products/accessibility-for-everyone) by Laura Kalbag
 - [_Design for Real Life_](https://abookapart.com/products/design-for-real-life) by Eric Meyer and Sara Wachter-Boettcher
-- [_Inclusive Design Patterns_](https://shop.smashingmagazine.com/products/inclusive-design-patterns) by Heydon Pickering  
+- [_Inclusive Design Patterns_](https://shop.smashingmagazine.com/products/inclusive-design-patterns) by Heydon Pickering 
+- [_Mental Models: Aligning Design Strategy with Human Behavior_](https://rosenfeldmedia.com/books/mental-models/) by Indi Young
+
+Note: Rosenfeld Media has kindly sponsored A11YChi, giving 20% off their really great books. Use the code, `a11ychi`
 
 ## Blogs, Newsletters and GitHub Repos
 - _A List Apart_ posts on [Accessibility](https://alistapart.com/topic/accessibility)
