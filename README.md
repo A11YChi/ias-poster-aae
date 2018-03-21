@@ -16,7 +16,7 @@ Based a website scenario, this poster highlights the frequent challenges that Pe
 
 **Presenters:** Nick Ng, Savina Imrhan and Stephanie Slattery 
 
-_Special thanks to [Dennis Deacon](http://www.dennisdeacon.com/) for the feedback and [Abby Covert](http://abbytheia.com/) for the review_
+_Special thanks to [Dennis Deacon](http://www.dennisdeacon.com/) for the feedback, [Abby Covert](http://abbytheia.com/) for the review, and [Grace Lau](http://graceglau.com/) for the invitation to present_
 
 **License:** Distribution as-is or Private/Non-Commercial Use are permitted; otherwise contact the repo owner(s) for Modifications or Commercial use.
 
