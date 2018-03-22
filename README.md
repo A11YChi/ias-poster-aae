@@ -37,4 +37,4 @@ by Avondale Type Co.
 
 Persona icons by Yu luck via [The Noun Project](https://thenounproject.com/yuluck/)
 
-Hand icons by strongicon via [The Noun Project](https://thenounproject.com/strongicon/);
+Hand icons by strongicon via [The Noun Project](https://thenounproject.com/strongicon/)
