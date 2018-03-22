@@ -1,6 +1,6 @@
 # An Accessible Experience
 
-View poster in [JPG](https://github.com/A11YChi/ias-poster-aae/blob/master/ias-poster-aae-final-03.23.2018.jpg) or [in PDF](https://github.com/A11YChi/ias-poster-aae/blob/master/ias-poster-aae-final-03.23.2018.pdf)
+View poster in [JPG](https://github.com/A11YChi/ias-poster-aae/blob/master/ias-poster-aae-final-03.23.2018.jpg) or [PDF](https://github.com/A11YChi/ias-poster-aae/blob/master/ias-poster-aae-final-03.23.2018.pdf)
 
 [View list of resources](https://github.com/A11YChi/ias-poster-aae/blob/master/resources.md)
 
