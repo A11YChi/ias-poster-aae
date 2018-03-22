@@ -1,6 +1,6 @@
 # An Accessible Experience
 
-[View Poster PDF](https://github.com/A11YChi/ias-poster-aae/blob/master/ias-poster-aae-final-03.23.2018.pdf)
+View poster in [JPG](https://github.com/A11YChi/ias-poster-aae/blob/master/ias-poster-aae-final-03.23.2018.jpg) or [in PDF](https://github.com/A11YChi/ias-poster-aae/blob/master/ias-poster-aae-final-03.23.2018.pdf)
 
 [View list of resources](https://github.com/A11YChi/ias-poster-aae/blob/master/resources.md)
 
@@ -35,4 +35,6 @@ Design elements
 Typeface - [ATC Arquette](https://avondaletypeco.com/fonts/atc-arquette/)
 by Avondale Type Co.
 
-Persona icons by Yu luck via [The Noun Project](https://thenounproject.com/yuluck/) 
+Persona icons by Yu luck via [The Noun Project](https://thenounproject.com/yuluck/)
+
+Hand icons by strongicon via [The Noun Project](https://thenounproject.com/strongicon/);
