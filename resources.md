@@ -27,6 +27,7 @@ Note: Rosenfeld Media has kindly sponsored A11YChi, giving 20% off their really 
 - _A List Apart_ posts on [Accessibility](https://alistapart.com/topic/accessibility)
 - _Smashing Magazine_ on [Accessibility](https://www.smashingmagazine.com/category/accessibility/)
 - [_Accessibility Weekly_](http://a11yweekly.com/), a weekly newsletter
+- [The A11Y Project](https://a11yproject.com/)
 - [Inclusive Design Checklist](https://github.com/Heydon/inclusive-design-checklist)
 
 ## Governments and Companies
